@@ -1,5 +1,3 @@
-# PolyAI Take Home Assignment
-
 # Question 1
 ### My approach
 Dijkstra's algorithm finds the shortest path between nodes in a graph. We can find the shortest path between Earth and Zearth through representing the coordinates of the stations, Earth, and Zearth as a graph. Out of the paths visited, the minimum distance is returned.
